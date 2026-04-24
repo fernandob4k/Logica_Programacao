@@ -30,6 +30,6 @@ int main()
          << vivo << "\nNome : "
          << texto << "\n";
 
-    system("pause");
-    return 0;
+    //system("pause");
+    //return 0;
 }

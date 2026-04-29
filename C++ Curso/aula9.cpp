@@ -35,7 +35,7 @@ inicio:
     cout << "Digite outras notas ? [S / N] : ";
     cin >> opc;
 
-    if (opc == 's' or opc == 'S')
+    if (opc == 's' || opc == 'S')
     {
         goto inicio;
     }

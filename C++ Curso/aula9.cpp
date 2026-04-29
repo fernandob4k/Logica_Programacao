@@ -1,19 +1,43 @@
 #include <iostream>
-
+#include <cstdlib>
 using namespace std;
 
-int main() {
-    int num = 514;
+int main()
+{
 
-    if (num < 5 ){
-        cout << "num é menor que 5 " << '\n';
-    } else if  (num == 5)
+    // comando goto
+
+    int n1, n2, res;
+    char opc;
+inicio:
+    system("cls");
+
+    cout << "Digite o valor da nota 1: ";
+    cin >> n1;
+    cout << "Digite o valor da nota 2: ";
+    cin >> n2;
+
+    res = n1 + n2;
+
+    if (res >= 60)
     {
-        cout << "num é igual a 5 " << 'n' ;
-    } else {
-        cout << "10 é maior que  5 " << '\n';
+        cout << "\nAluno Aprovado\n";
+    }
+    else if (res >= 40)
+    {
+        cout << "\nAluno Recupercao \n";
+    }
+    else
+    {
+        cout << "\nAluno Reprovado \n ";
     }
 
-    cout << "Fim do programa" << '\n';
+    cout << "Digite outras notas ? [S / N] : ";
+    cin >> opc;
+
+    if (opc == 's' || opc == 'S')
+    {
+        goto inicio;
+    }
     return 0;
 }

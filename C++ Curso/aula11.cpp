@@ -1,31 +1,16 @@
-#include <iostream>
-
+#include <iostream> 
 using namespace std;
 
-int main()
-{
+int main ( ) {
 
-    int num, cine;
+    int num;
 
-    num = 5;
+    num = 12;
 
-    if (num < 3 || num > 8)
-    {
-        cout << "Valor aceito" << endl;
+    if ((num >= 3 && num <=6 )||(num > 9 && num < 15 )||(num >15 && num < 20)){
+        cout << "\n valor aceito " << '\n';
+    }else{
+        cout << "\n Não aceito " << '\n' ;
     }
-    else
-    {
-        cout << "Valor negado" << endl;
-    }
-
-    cine = 0;
-
-    if (cine == 1)
-    {
-        cout << "vamos ao cineme ";
-    }
-    else
-    {
-        cout << "vamos a praia ";
-    }
+    return 0 ;
 }

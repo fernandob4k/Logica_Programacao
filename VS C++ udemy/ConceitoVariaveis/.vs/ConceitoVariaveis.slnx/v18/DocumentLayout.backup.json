@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ferna\\OneDrive\\github_repo_meupc\\Logica_Programacao\\VS C\u002B\u002B udemy\\ConceitoVariaveis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{995A978A-7A7D-42B0-BF69-A9DB44CB9B97}|ConceitoVariaveis.vcxproj|C:\\Users\\ferna\\OneDrive\\github_repo_meupc\\Logica_Programacao\\VS C\u002B\u002B udemy\\ConceitoVariaveis\\ExercicioCriandoVariaveis.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{995A978A-7A7D-42B0-BF69-A9DB44CB9B97}|ConceitoVariaveis.vcxproj|solutionrelative:ExercicioCriandoVariaveis.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995A978A-7A7D-42B0-BF69-A9DB44CB9B97}|ConceitoVariaveis.vcxproj|C:\\Users\\ferna\\OneDrive\\github_repo_meupc\\Logica_Programacao\\VS C\u002B\u002B udemy\\ConceitoVariaveis\\Variaveis.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{995A978A-7A7D-42B0-BF69-A9DB44CB9B97}|ConceitoVariaveis.vcxproj|solutionrelative:Variaveis.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExercicioCriandoVariaveis.cpp",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\github_repo_meupc\\Logica_Programacao\\VS C\u002B\u002B udemy\\ConceitoVariaveis\\ExercicioCriandoVariaveis.cpp",
+              "RelativeDocumentMoniker": "ExercicioCriandoVariaveis.cpp",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\github_repo_meupc\\Logica_Programacao\\VS C\u002B\u002B udemy\\ConceitoVariaveis\\ExercicioCriandoVariaveis.cpp",
+              "RelativeToolTip": "ExercicioCriandoVariaveis.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-13T01:59:22.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Variaveis.cpp",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\github_repo_meupc\\Logica_Programacao\\VS C\u002B\u002B udemy\\ConceitoVariaveis\\Variaveis.cpp",
+              "RelativeDocumentMoniker": "Variaveis.cpp",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\github_repo_meupc\\Logica_Programacao\\VS C\u002B\u002B udemy\\ConceitoVariaveis\\Variaveis.cpp",
+              "RelativeToolTip": "Variaveis.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-12T02:56:37.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

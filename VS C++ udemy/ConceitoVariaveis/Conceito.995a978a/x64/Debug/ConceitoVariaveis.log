@@ -1,0 +1,2 @@
+﻿Variaveis.obj : error LNK2005: main already defined in ExercicioCriandoVariaveis.obj
+C:\Users\ferna\OneDrive\github_repo_meupc\Logica_Programacao\VS C++ udemy\ConceitoVariaveis\x64\Debug\ConceitoVariaveis.exe : fatal error LNK1169: one or more multiply defined symbols found

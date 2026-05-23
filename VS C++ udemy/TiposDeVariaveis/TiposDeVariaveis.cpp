@@ -38,17 +38,17 @@ int main() {
 
 	std::cout << "Valor Numero3: " << std::setprecision(12) << Numero3 << std::endl;
 	std::cout << "Tamanho da variavel Numero3: " << sizeof(Numero3) << " Bytes" << "\n";
-	std::cout << "Endereco Carregado na memoria: " << &Numero3 << "\n";
+	std::cout << "Endereco Carregando na memoria: " << &Numero3 << "\n";
 
 	std::cout << "Valor Caractere: "<< Caractere << std::endl;
 	std::cout << "Tamanho da variavel Numero3: " << sizeof(Caractere) << " Byte" << "\n";
-	std::cout << "Endereco Carregado na memoria: " << (void *)&Caractere << "\n";
+	std::cout << "Endereco Carregando na memoria: " << (void *)&Caractere << "\n";
 
 	std::cout << "Valor Caractere: " << Caractere2 << std::endl;
 	std::cout << "Tamanho da variavel Numero3: " << sizeof(Caractere2) << " Byte" << "\n";
-	std::cout << "Endereco Carregado na memoria: " << (void *)&Caractere2 << "\n";
+	std::cout << "Endereco Carregando na memoria: " << (void *)&Caractere2 << "\n";
 
 
-
+	system("pause");
 	return 0;
 }

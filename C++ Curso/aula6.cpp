@@ -22,5 +22,6 @@ int main()
     divresto = n1 % n2;
     cout << "Soma de todas as variaveis: " << res << ":" << res2 << '\n';
     cout << "Divisão = " << div << "O resto da divisão ou mod = " << divresto << '\n';
+    system("pause");
     return 0;
 }
